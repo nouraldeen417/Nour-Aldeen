@@ -51,6 +51,9 @@ Explain when cherry pick is useful
 
 Create branch feature-ui add two commits update main with new commit then integrate using merge
 Repeat same scenario using rebase
+
+
+change 1
 Explain difference between merge and rebase
 
 Create merge conflict by editing same line in two branches resolve conflict manually and complete merge
